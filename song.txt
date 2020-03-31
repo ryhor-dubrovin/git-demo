@@ -4,5 +4,3 @@
 [new] четвертая строчка песни
 [using gui] пятая строчка песни
 [using gui] шестая строчка песни
-[revert] седьмая строчка песни
-[revert] useless information
