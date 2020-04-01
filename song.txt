@@ -6,3 +6,5 @@
 [using gui] шестая строчка песни
 [feature] fast-forward merge
 [feature] fast-forward merge x2
+[feature x2] second commit
+[feature x2] second commit
