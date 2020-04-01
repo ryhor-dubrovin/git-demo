@@ -1,10 +1,2 @@
 первая строчка песни
 вторая строчка песни
-[new] третья строчка песни
-[new] четвертая строчка песни
-[using gui] пятая строчка песни
-[using gui] шестая строчка песни
-[feature] fast-forward merge
-[feature] fast-forward merge x2
-[feature x2] second commit
-[feature x2] second commit
