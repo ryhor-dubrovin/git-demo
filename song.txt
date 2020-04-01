@@ -2,3 +2,6 @@
 вторая строчка песни
 
 [master] bla-bla-bla-bla-bla
+
+[feature] bla-bla-not-bla
+
