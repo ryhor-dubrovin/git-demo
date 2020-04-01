@@ -4,3 +4,5 @@
 [new] четвертая строчка песни
 [using gui] пятая строчка песни
 [using gui] шестая строчка песни
+[feature] fast-forward merge
+[feature] fast-forward merge x2
